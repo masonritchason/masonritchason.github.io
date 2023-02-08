@@ -1,0 +1,148 @@
+/* Classes*/
+.headLinks {
+  font-family: 'Montserat', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-align: right;
+  color: #ccddeb;
+}
+
+.currentTab {
+  font-family: 'Montserat', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 2px;
+  text-align: right;
+  color: #ccddeb;
+}
+
+.tdHead {
+  font-family: 'Montserat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  letter-spacing: 8px;
+  margin: 0px;
+  width: 0%;
+  text-align: left;
+  border-collapse: collapse;
+  background-color: #11171c;    
+}
+
+.tdBody {
+  font-family: 'Montserat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  letter-spacing: 8px;
+  padding: 0px;
+  margin: 0px;
+  width: 0%;
+  text-align: left;
+  border-collapse: collapse;
+  background-color: #ccddeb;  
+}
+
+.bodyIndent {
+  padding-left: 45px;
+}
+
+.catalogue {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+
+body {
+  background: #ccddeb;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 44px;
+  font-style: bold;
+  font-weight: 50;
+  letter-spacing: 16px;
+}
+
+h2 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+h4 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 2px;  
+}
+
+h5 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 2px;  
+}
+
+h6 {
+  font-family: 'Montserat', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 2px;  
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+p {
+  font-family: 'Montserat', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #000001;
+  padding: 0px;
+  margin: 0px;
+}
+
+tr {
+  border-collapse: collapse;
+  background-color: #000001;
+  padding: 0px;
+  margin: 0px;
+}
+
+th, td {
+  font-family: 'Montserat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  letter-spacing: 8px;  
+}
+
+
+
+
+
+
+
+
