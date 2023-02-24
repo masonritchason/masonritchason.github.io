@@ -7,7 +7,7 @@
   letter-spacing: 2px;
   text-decoration: none;
   text-align: right;
-  color: #ccddeb;
+  color: #11171c;
 }
 
 .currentTab {
@@ -17,7 +17,7 @@
   font-style: italic;
   letter-spacing: 2px;
   text-align: right;
-  color: #ccddeb;
+  color: #11171c;
 }
 
 .tdHead {
@@ -67,6 +67,7 @@ h1 {
   font-style: bold;
   font-weight: 50;
   letter-spacing: 16px;
+  color: #11171c;
 }
 
 h2 {
@@ -74,6 +75,7 @@ h2 {
   font-size: 40px;
   font-weight: 400;
   letter-spacing: 2px;
+  color: #11171c;
 }
 
 h3 {
@@ -81,6 +83,7 @@ h3 {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: 2px;
+  color: #11171c;
 }
 
 h4 {
@@ -88,13 +91,15 @@ h4 {
   font-size: 32px;
   font-weight: 400;
   letter-spacing: 2px;  
+  color: #11171c;
 }
 
 h5 {
   font-family: 'Montserat', sans-serif;
   font-size: 28px;
   font-weight: 400;
-  letter-spacing: 2px;  
+  letter-spacing: 2px; 
+  color: #11171c; 
 }
 
 h6 {
@@ -105,6 +110,7 @@ h6 {
   padding-top: 0px;
   padding-bottom: 0px;
   margin: 0px;
+  color: #11171c;
 }
 
 p {
@@ -112,6 +118,7 @@ p {
   font-size: 18px;
   font-weight: 400;
   letter-spacing: 2px;
+  color: #11171c;
 }
 
 
@@ -120,14 +127,16 @@ p {
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #000001;
+  background-color: #ccddeb;
+  color: #11171c;
   padding: 0px;
   margin: 0px;
 }
 
 tr {
   border-collapse: collapse;
-  background-color: #000001;
+  background-color: #ccddeb;
+  color: #11171c;
   padding: 0px;
   margin: 0px;
 }
@@ -137,6 +146,8 @@ th, td {
   font-size: 24px;
   font-weight: 200;
   letter-spacing: 8px;  
+  background-color: #ccddeb;
+  color: #11171c;
 }
 
 
