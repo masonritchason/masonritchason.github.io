@@ -20,41 +20,8 @@
   color: #11171c;
 }
 
-.tdHead {
-  font-family: 'Montserat', sans-serif;
-  font-size: 24px;
-  font-weight: 200;
-  letter-spacing: 8px;
-  margin: 0px;
-  width: 0%;
-  text-align: left;
-  border-collapse: collapse;
-  background-color: #ccddeb; 
-  color: #11171c;    
-}
-
-.tdBody {
-  font-family: 'Montserat', sans-serif;
-  font-size: 24px;
-  font-weight: 200;
-  letter-spacing: 8px;
-  padding: 0px;
-  margin: 0px;
-  width: 0%;
-  text-align: left;
-  border-collapse: collapse;
-  background-color: #ccddeb; 
-  color: #11171c;  
-}
-
 .bodyIndent {
   padding-left: 45px;
-}
-
-.catalogue {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  margin: 0px;
 }
 
 
@@ -129,16 +96,14 @@ p {
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #ccddeb;
-  color: #11171c;
+  background: #ccddeb;
   padding: 0px;
   margin: 0px;
 }
 
 tr {
   border-collapse: collapse;
-  background-color: #ccddeb;
-  color: #11171c;
+  background: #ccddeb;
   padding: 0px;
   margin: 0px;
 }
@@ -148,8 +113,7 @@ th, td {
   font-size: 24px;
   font-weight: 200;
   letter-spacing: 8px;  
-  background-color: #ccddeb;
-  color: #11171c;
+  background: #ccddeb;
 }
 
 
