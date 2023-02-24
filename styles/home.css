@@ -29,7 +29,8 @@
   width: 0%;
   text-align: left;
   border-collapse: collapse;
-  background-color: #11171c;    
+  background-color: #ccddeb; 
+  color: #11171c;    
 }
 
 .tdBody {
@@ -42,7 +43,8 @@
   width: 0%;
   text-align: left;
   border-collapse: collapse;
-  background-color: #ccddeb;  
+  background-color: #ccddeb; 
+  color: #11171c;  
 }
 
 .bodyIndent {
