@@ -1,0 +1,101 @@
+
+
+/* Styling Standards 
+
+colors: #11171c, #ccddeb
+font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+
+page header indent L/R: 0px
+page header color: #11171c
+page header text color: #ccddeb
+
+page body indent L/R: 35px
+
+page footer indent L/R: 0px
+page footer color: #11171c
+page footer text color: #ccddeb
+
+*/
+
+
+h1 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 44px;
+  font-style: bold;
+  font-weight: 50;
+  letter-spacing: 16px;
+  color: #11171c;
+}
+
+h2 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #11171c;
+}
+
+h3 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #11171c;
+}
+
+h4 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 2px;  
+  color: #11171c;
+}
+
+h5 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 2px; 
+  color: #11171c; 
+}
+
+h6 {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 2px;  
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+  color: #11171c;
+}
+
+p {
+  font-family: 'Bahnschrift Light', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #11171c;
+}
+
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-collapse: collapse;
+}
+
+
+
+
+
+
+

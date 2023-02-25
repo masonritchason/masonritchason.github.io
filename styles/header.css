@@ -1,0 +1,52 @@
+
+
+/* Header styling */
+
+.header {
+    background-color: #11171c;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+div {
+    background-color: #11171c;
+}
+br {
+    color: #11171c;
+}
+a {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-decoration: none;
+    color: #ccddeb;
+}
+h1 {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    color: #ccddeb;
+}
+table {
+    background-color: #11171c;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    font-size: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: lighter;
+    color: #ccddeb;
+}
+td {
+    background-color: #11171c;
+    width: 20%;
+    border-collapse: collapse;
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    font-size: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: lighter;
+    color: #ccddeb;
+}
