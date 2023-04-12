@@ -1,0 +1,126 @@
+
+/* CSS for site. Global definitions and area-specific classes */
+/* Applying the .header, .body, and .footer classes to a <div> will format the block as that page section */
+
+/* Base element definitions */
+
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: lighter;
+    color: #11171c;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 42px;
+}
+h3 {
+    font-size: 36px;
+}
+h4 {
+    font-size: 30px;
+}
+h5 {
+    font-size: 28px;
+}
+h6 {
+    font-size: 24px;
+}
+a {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-decoration: none;
+    color: #ccddeb;
+    font-size: 20px;
+}
+
+
+/* Page Section Class definitions */
+
+/* Header Classes */
+/* .hd - apply to <div> elements to format the block */
+.hd {
+    background: #11171c;
+    background-color: #11171c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/* .hd_curr - apply to h1 element signifying current page title */
+.hd_curr {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    color: #ccddeb;
+
+    width: 20%;
+    border-collapse: collapse;
+}
+/* .hd_table - apply to table holding navigation links in the header */
+.hd_table {
+    width: 100%;
+    border-collapse: collapse;
+}
+/* .hd_td - apply to <td> for each nav link */
+.hd_td {
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-align: left;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ccddeb;
+
+    width: 20%;
+    border-collapse: collapse;
+}
+
+
+
+.body {
+    background: #ccddeb;
+    background-color: #ccddeb;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
+    text-align: center;
+    font-style: normal;
+    font-weight: lighter;
+    color: #11171c;
+    
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.footer {
+
+}
