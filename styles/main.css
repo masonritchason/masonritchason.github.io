@@ -5,8 +5,8 @@
 /* Base element definitions */
 
 td {
-    width: 15%;
-    text-align: right;
+    width: 150px;
+    padding-left: 0px;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -43,6 +43,7 @@ a {
     text-decoration: none;
     color: #11171c;
     font-size: 20px;
+    text-align: left;
 }
 
 body, div {

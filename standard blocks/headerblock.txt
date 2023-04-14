@@ -11,26 +11,24 @@ Standard Header Block for all Sites
   </head>
   <body>
   <div>
+    <h1 style = "text-align: left">[currentpage]</h1>  
     <table>
       <tbody>
-        <tr>
+        <tr> 
           <td>
-            <h1 style = "width: 150px; text-align: left">[currentpage]</h1>   
+            <a href = "./portfolio.html">Portfolio</a>
           </td>
           <td>
-            <a style = "text-align: right" href = "./portfolio.html">Portfolio</a>
+            <a href = "./catalogue.html">Catalogue</a>
           </td>
           <td>
-            <a style = "text-align: right" href = "./catalogue.html">Catalogue</a>
+            <a href = "./academia.html">Academia</a>
           </td>
           <td>
-            <a style = "text-align: right" href = "./academia.html">Academia</a>
+            <a href = "./blog.html">Blogs</a>
           </td>
           <td>
-            <a style = "text-align: right" href = "./blog.html">Blogs</a>
-          </td>
-          <td>
-            <a style = "text-align: right" href = "./contact.html">Contact</a>
+            <a href = "./contact.html">Contact</a>
           </td>
         </tr>
       </tbody>
