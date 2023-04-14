@@ -15,7 +15,7 @@ Standard Header Block for all Sites
       <tbody>
         <tr>
           <td>
-            <h1 style = "width: 220px; text-align: left">[currentpage]</h1>   
+            <h1 style = "width: 150px; text-align: left">[currentpage]</h1>   
           </td>
           <td>
             <a style = "text-align: right" href = "./portfolio.html">Portfolio</a>
