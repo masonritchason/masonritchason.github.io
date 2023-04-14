@@ -3,31 +3,37 @@ BLOCK CODE - NOT A PAGE
 Standard Header Block for all Sites
 [] == field
 
-<head>
-  <title>[PAGE] | Mason Ritchason</title>
-  <link rel= "icon" href = "./media/logo.png">
-  <link rel = "stylesheet" href = "./styles/header.css" type = "text/css">
-  <div class = "header">
+<html>
+  <head>
+    <title>[Currentpage] | Mason Ritchason</title>
+    <link rel = "icon" href = "./media/logo.png">
+    <link rel = "stylesheet" href = "./styles/main.css" type = "text/css">
+  </head>
+  <body>
+  <div>
     <table>
       <tbody>
-        <tr >
+        <tr>
           <td>
-            <h1>[page]</h1>   
+            <h1 style = "width: 220px; text-align: left">[currentpage]</h1>   
           </td>
           <td>
-            <a href = "./[nav1].html">[nav1]</a>
+            <a style = "text-align: right" href = "./portfolio.html">Portfolio</a>
           </td>
           <td>
-            <a href = "./[nav2].html">[nav2]</a>
+            <a style = "text-align: right" href = "./catalogue.html">Catalogue</a>
           </td>
           <td>
-            <a href = "./[nav3].html">[nav3]</a>
+            <a style = "text-align: right" href = "./academia.html">Academia</a>
           </td>
           <td>
-            <a href = "./[nav4].html">[nav4]</a>
+            <a style = "text-align: right" href = "./blog.html">Blogs</a>
+          </td>
+          <td>
+            <a style = "text-align: right" href = "./contact.html">Contact</a>
           </td>
         </tr>
       </tbody>
     </table>
-  </div>
-</head>
+    </div>
+    <div>
