@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Feed | Mason Ritchason</title>
+    <link rel = "icon" href = "./media/logo.png">
+    <link rel = "stylesheet" href = "../styles/main.css" type = "text/css">
+  </head>
+  <body>
+    <div>
+      <h1>feed | 29 Apr 2023</h1>  
+      <a href = "../feed.html">
+        <h5>< back to feed</h5>
+      </a>
+      <br>
+      <h3><strong>April 28th, 2023</strong></h3>
+      <h4>World Premier of "Whatever Excitement Life Brings"</h4>
+      <hr>
+      <br>
+      <p>04/29/2023 -- </p>
+      <p>I woke up this morning a completely different person.</p>
+      <p>For, as of 7:36PM last night, I can say that I'm a <i>peformed composer!</i></p>
+      <br>
+      <p>The last couple of months have been so much fun. Working with Dr. Jones and the Ensemble has</p>
+      <p>offered invaluable moments of learning, challenge, and triumph as a composer.</p>
+      <br>
+      <p>Composing this work took the better part of my fall '22 semester, and was a harrowing act. It was the</p>
+      <p>first major work I had ever written; the first time I genuinely put my mind to writing. However, it all paid off</p>
+      <p>when I shared the "zero-th" edition of <i>Excitement</i> with Dr. Jones. Getting the "seal of approval" from someone</p>
+      <p>whose exposure to great music eclipses mine tenfold felt like such a relief.</p>
+      <br>
+      <p>From then on, it was edits and suggestions all day, every day. The polish went on in thick layers, preparing for</p>
+      <p>rehearsals in March. Despite the pre-rehearsal grind, WAY more work went into the piece during the 6-week rehearsal cycle.</p>
+      <p>Two entire editions later, with some sections taking completely new forms, it was time!</p>
+      <br>
+      <p>The premier was surreal. Performing with the group, seeing and hearing all the hard work pay off was so worth everything.</p>
+      <p>In the aftermath, I felt like a true, real-life composer, and I'm obsessed...</p>
+      <br>
+      <hr>
+      <h4>Read the program notes below:</h4>
+      <br>
+      <p>"Whatever Excitement Life Brings is written to represent exactly what the title states. The music is about life - about</p>
+      <p>the twists and turns, the chances, the successes and failures. It's meant to lead into the future. I conceived the idea for</p>
+      <p>this piece shortly after a monumentally turbulent time in my life. Three years into undergrad at Wittenberg, I made the bold</p>
+      <p>choice to give up my studies in Education. I was off to chase the dream, to live my life writing music for people to play,</p>
+      <p>to listen to, and to love. It was a time of doubt, fear, and unbelievable change. It was the biggest leap-of-faith I had ever</p>
+      <p>taken. The tunes and ideas in Whatever Excitement Life Brings present what these feelings sound like. Triumphant, majestic</p>
+      <p>themes soar through the joy of successes and the excitement of new things. Tension brings doubt that leads to fear - fear of</p>
+      <p>the mysterious tribulations you can expect in life. Ultimately, if you come to embrace and enjoy those thrills and crazy,</p>
+      <p>fearful moments like I have, you'll feel even more elated when it all works out. So, take the leap, and make the best of it!</p>
+      <br>
+      <hr>
+      <h4>Watch the performance here:</h4>
+      <a href = "https://youtu.be/TCf2mz2uVl4">
+        <h5 style = "text-decoration: underline">Whatever Excitement Life Brings | Mason Ritchason -- YouTube</h5>
+      </a>
+
+  </body>
+</html>

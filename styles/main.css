@@ -4,19 +4,22 @@
 
 /* Base element definitions */
 
+hr {
+    border: #11171c;
+    height: 1px;
+    background-color: #11171c;
+}
+
 td {
     width: 150px;
-    padding-left: 0px;
-    margin-left: 0px;
-    border-left: 0px;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
     font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
-    text-align: center;
     text-decoration: none;
     font-style: normal;
     font-weight: lighter;
+    line-height: 50%;
     color: #11171c;
 }
 p {
@@ -55,17 +58,8 @@ body, div {
     padding-bottom: 35px;
     padding-left: 20px;
     padding-right: 20px;
-    border-top: 0px;
-    border-bottom: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
     
     font-family: 'Bahnschrift Light', 'Leelawadee', 'Calibri', 'Sans-Serif';
-    text-align: center;
     font-style: normal;
     font-weight: lighter;
     color: #11171c;
